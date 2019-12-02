@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "837641071741",
+    "firebase_url": "https://challenge-dip.firebaseio.com",
+    "project_id": "challenge-dip",
+    "storage_bucket": "challenge-dip.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837641071741:android:f1d5e024e91c47ab645514",
+        "android_client_info": {
+          "package_name": "com.josephkhaipi.challenge_diploma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "837641071741-pmfp7jlj8pe9dthjqhkg1dms7qreedbp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBX3D5iMjrxb1cAL4xsFXwmB2LmNi4g9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "837641071741-pmfp7jlj8pe9dthjqhkg1dms7qreedbp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
